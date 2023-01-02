@@ -14,7 +14,7 @@
 ![gambar](/Tugas%205/gambar/gambar2.png)
 
 3. copy folder dari db local ke db azi dan dari db 127 ke db 55 dengan cara mengetikan perintah cp db local db azi dan cp db 127 db 55 setelah selesai maka akan muncul hasil seperti pada gambar berikut.
-![gambar](/Tugas%205/gambar/gambar3.1.png)
+![gambar](/Tugas%205/gambar/gambar3.png)
 ![gambar](/Tugas%205/gambar/gambar3.1.png)
 
 4. langkah selanjut nya tinggal melakukan konfigurasi seperti gambar dibawah dengan cara mengetikan perintah nano db azi dan nano db 55 hingga mendapat hasil sebagai berikut.
